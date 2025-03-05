@@ -3,8 +3,9 @@ Recent MSc in Data Science for Business graduate with a robust foundation in mac
 
 ## Education
 MSC Data Science in Business
-Univeristy of Stirling •UK •2025 •2:1 
-Machine learning, R, Python Programming, Statistical Analysis •
+Univeristy of Stirling
+•UK •2025 •2:1 
+Machine learning, R, Python Programming, Statistical Analysis 
 
 Mechanical and Automation Engineering
 Amity University Dubai •
