@@ -16,6 +16,11 @@ Amity University Dubai
 •2:2
 
 ## Projects 
+| Project name | Completion Date | Tools                                                            | Project Description                                                                                                                                                                                                   |
+|--------------|-----------------|------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Arla Foods   | Jul-24          | Python, Pandas, NumPy, Matplotlib, Seaborn, Scikit-Learn, Plotly | Developed a scenario-based analysis tool to help Arla Foods reduce carbon emissions using data analytics, regression modeling, and KPI optimization, driving sustainability and efficiency.                           |
+| JC Penney    | Dec-24          | Python, Pandas, NumPy, Matplotlib, Seaborn, TextBlob, Plotly     | Processed and analyzed JC Penney’s product, user, and review datasets. Applied sentiment analysis, standardized ratings, and visualized customer behavior trends to derive actionable insights for business strategy. |
+
 ### Arla Foods: Decarbonization and Mitigation Strategies
 MSc Data Science for Business, University of Stirling (2024) (Disseration)
 ### **Arla Foods: Decarbonization and Mitigation Strategies - Portfolio Summary**  
